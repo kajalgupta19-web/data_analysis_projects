@@ -1,7 +1,8 @@
 # data_analytics_projects
 This repository contains all my Data analysis Projects and works
 
- project 1 <img width="704" height="604" alt="Image" src="https://github.com/user-attachments/assets/4fdb94fc-d982-4bca-930c-c5b9ab0eceea" />
+PROJECT 1 ()
+<img width="704" height="604" alt="Image" src="https://github.com/user-attachments/assets/4fdb94fc-d982-4bca-930c-c5b9ab0eceea" />
 Core Objectives
 
 1. Exploratory Data Analysis (EDA)
