@@ -1,7 +1,7 @@
 # data_analytics_projects
 This repository contains all my Data analysis Projects and works
 
-PROJECT 1 ([Cancer data Analysis](Cancer data Analysis))
+PROJECT 1 ([Cancer data Analysis](https://github.com/kajalgupta19-web/data_analysis_projects/blob/main/Cancer%20data%20Analysis.ipynb))
 
 <img width="704" height="604" alt="Image" src="https://github.com/user-attachments/assets/4fdb94fc-d982-4bca-930c-c5b9ab0eceea" />
 Core Objectives
@@ -35,5 +35,7 @@ Examine whether higher genetic risk amplifies the negative effects of smoking on
 3. Insight Extraction and Documentation
 
 For each major analysis, made clear, evidence-backed inferences
+
+PROJECT 2 
 
 
