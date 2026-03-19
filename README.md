@@ -36,6 +36,8 @@ Examine whether higher genetic risk amplifies the negative effects of smoking on
 
 For each major analysis, made clear, evidence-backed inferences
 
-PROJECT 2 
+PROJECT 2 [Hotstar EDA](https://github.com/kajalgupta19-web/data_analysis_projects/blob/main/Hotstart_EDA.ipynb)
+<img width="1179" height="647" alt="image" src="https://github.com/user-attachments/assets/d79c433c-84e5-4aba-8cbf-5751378edba3" />
+
 
 
